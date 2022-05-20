@@ -1,6 +1,6 @@
 import './style.css'
 import Cleave from 'cleave.js';
-import 'cleave.js/dist/addons/cleave-phone.US';
+import 'cleave.js/dist/addons/cleave-phone.us';
 var cleave = new Cleave('.cleave-phone', {
     phone: true,
     phoneRegionCode: 'US',
